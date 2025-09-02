@@ -23,4 +23,4 @@ Chaque entrée mentionne la date, les modules terminés, les points clés appris
 - Points clés vus :
   - L'mportance de la cybersécurité dans le monde actuel
   - Les principaux acteurs et enjeux
-
+Photo module 1 terminé:https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/ff5fee20ef36da69c9cba96396275546552d8038#diff-5e8c3a1441928a898e2dbe2402aa4f88e493c82327a4e88c734eea8f5959c276
