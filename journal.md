@@ -26,7 +26,7 @@ Chaque entrée mentionne la date, les modules terminés, les points clés appris
  
     Quiz: Réussi avec 90%
 
-Photo module 1 terminé:[module1.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/ff5fee20ef36da69c9cba96396275546552d8038)
+Photo module 1 terminé : [module1.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/ff5fee20ef36da69c9cba96396275546552d8038)
 
   03/09/2025
 - ✅ Module 2 terminé : Attaque, Concepts et Tecnhiques
@@ -35,4 +35,4 @@ Photo module 1 terminé:[module1.png](https://github.com/Dureltanga/cisco-cybers
   - Introduction aux ransomwares et phishing
 - Quiz : réussi avec 88%
 
-   photo module2 [module2.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/dc90df4d419e1d1ec830f1c32b14b6f40b9b73a1)
+   photo module2 : [module2.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/dc90df4d419e1d1ec830f1c32b14b6f40b9b73a1)
