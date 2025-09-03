@@ -35,5 +35,4 @@ Photo module 1 terminé:https://github.com/Dureltanga/cisco-cybersecurity-intro/
   - Introduction aux ransomwares et phishing
 - Quiz : réussi avec 88%
 
-    
-
+   photo module2 module2.png
