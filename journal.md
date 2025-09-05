@@ -40,8 +40,9 @@ Photo module 1 terminé : [module1.png](https://github.com/Dureltanga/cisco-cybe
 
   05/05/2025
   - ✅ Module 3 terminé: Protection des données et Confidentialité
-    - Concepts étudiés :
+    - Points clés vus :
       - Chiffrement symétrique vs asymétrique
       - Notion de confidentialité, intégrité, disponibilité
+      - Quiz : réussi avec 83%
    
      photo module3 :  [module3.png]https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/417a9ee5335ef2f8f01f44423694474cedd1d6e2
