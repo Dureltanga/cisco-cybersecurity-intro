@@ -48,7 +48,7 @@ Photo module 1 terminé : [module1.png](https://github.com/Dureltanga/cisco-cybe
    
      photo module3 : [module3.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/417a9ee5335ef2f8f01f44423694474cedd1d6e2)
 
-    03/09/2025
+    06/09/2025
 - ✅ Module 4 terminé : Protection d'une entreprise
   - Points clés vus :
       - Equipement et technologie de cybersécurité
