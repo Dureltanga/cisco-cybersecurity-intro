@@ -17,7 +17,7 @@ Chaque entrée mentionne la date, les modules terminés, les points clés appris
 
 📅 Journal quotidien
 
-02/09/2025
+01/09/2025
 - Début de la certification Cisco
 - ✅Module 1 terminé : Introduction àla cybersécurité
   - Points clés vus :
@@ -28,7 +28,7 @@ Chaque entrée mentionne la date, les modules terminés, les points clés appris
 
 Photo module 1 terminé : [module1.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/ff5fee20ef36da69c9cba96396275546552d8038)
 
-  03/09/2025
+  02/09/2025
 - ✅ Module 2 terminé : Attaque, Concepts et Tecnhiques
   - Points clés vus :
       - Différence entre virus, vers et chevaux de Troie
@@ -38,7 +38,7 @@ Photo module 1 terminé : [module1.png](https://github.com/Dureltanga/cisco-cybe
 
    photo module2 : [module2.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/dc90df4d419e1d1ec830f1c32b14b6f40b9b73a1)
 
-  05/05/2025
+  03/05/2025
   - ✅ Module 3 terminé: Protection des données et Confidentialité
     - Points clés vus :
       - Chiffrement symétrique vs asymétrique
@@ -48,7 +48,7 @@ Photo module 1 terminé : [module1.png](https://github.com/Dureltanga/cisco-cybe
    
      photo module3 : [module3.png](https://github.com/Dureltanga/cisco-cybersecurity-intro/commit/417a9ee5335ef2f8f01f44423694474cedd1d6e2)
 
-    06/09/2025
+    04/09/2025
 - ✅ Module 4 terminé : Protection d'une entreprise
   - Points clés vus :
       - Equipement et technologie de cybersécurité
