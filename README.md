@@ -8,6 +8,7 @@ Ce dépôt contient mon suivi et mes notes de progression pour la certification 
 
 J’ai complété avec succès la certification **Cisco – Introduction to Cybersecurity** 🎉.  
 
+👉 Cliquez sur le badge pour vérifier mon certificat sur Credly.
 [![Badge Cisco – Introduction to Cybersecurity](https://images.credly.com/path/vers/ton_badge.png)](https://www.credly.com/badges/a6c2714b-5114-4046-ab53-ea08c6c48ca0)
 
-👉 Cliquez sur le badge pour vérifier mon certificat sur Credly.
+Photo du badge : [badge]
